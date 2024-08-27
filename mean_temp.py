@@ -16,7 +16,7 @@ x = 101
 y = 74
 
 # Create variable z and use mathematical operators to calculate the mean temperature
-z = 2 * (x + y)
+z = (x + y)/2
 
 # Use this custom statement that prints the result to screen
 print("Yesterday's mean daily temperature was {0} degrees.".format(z))
